@@ -1,0 +1,2 @@
+# spsm
+Sharing pattern submodels
