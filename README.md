@@ -1,4 +1,4 @@
-# Sharing pattern submodels (SPSM)
+## Sharing pattern submodels (SPSM)
 
 SPSM is a machine learning method to fit simple  submodels with missingness at test time in python.
 
@@ -6,10 +6,10 @@ SPSM is a machine learning method to fit simple  submodels with missingness at t
 SPSM let users make quick predictions when having missingness at the test time by having a shared coefficient and pattern specific submodels. 
 Here ist an illustration that we included as a running example in our paper: 
 
-![alt text](https://github.com/[lenastempfle]/[Healthy-AI/spsm]/blob/[README.md]/SPSM_Example_.pdf?raw=true)
+![alt text](https://github.com/[lenastempfle]/[Healthy-AI/spsm]/blob/[README.md]/SPSM_Example_.JPEG?raw=true)
 
 
-## Installation
+# Installation
 ```python
 
 #clone repository
@@ -24,6 +24,6 @@ python experiment.py -ds house_reg -es SPSM_ols -i none -pa alpha0 10.0 alphap 1
 
 # Requirements
 
-## Reference
+# Reference
 If you use SPSM in your research, we would appreciate a citation. 
 
