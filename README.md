@@ -6,7 +6,7 @@ SPSM is a machine learning method to fit simple  submodels with missingness at t
 SPSM let users make quick predictions when having missingness at the test time by having a shared coefficient and pattern specific submodels. 
 Here ist an illustration that we included as a running example in our paper: 
 
-![SPSM_Example](SPSM_Example_)
+![SPSM_Example](SPSM_Example_.jpg)
 
 
 # Installation
