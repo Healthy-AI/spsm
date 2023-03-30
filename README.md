@@ -13,11 +13,7 @@ Reference
 If you use SPSM in your research, we would appreciate a citation to the following paper (LINK)!
 
 Installation
-git clone É
+git clone https://github.com/Healthy-AI/spsm.git
 
 cd main_script 
 python experiment.py -ds house_reg -es SPSM_ols -i none -pa alpha0 10.0 alphap 100.0 -sp 0.2 -s 0 -op True -m True -fr 1.0 #run example with housing dataset 
-
-
-Requirements
-SPSM requires [list of packages saved in the virtual environment]
