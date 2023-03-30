@@ -7,7 +7,7 @@ SPSM let users make quick predictions when having missingness at the test time b
 
 Hier ist an illustration that we included as a running example in our paper: 
 
-[figure]
+![alt text](https://github.com/Healthy-AI/spsm/blob/main/SPSM_Example_.jpg)
 
 Reference
 If you use SPSM in your research, we would appreciate a citation to the following paper (LINK)!
